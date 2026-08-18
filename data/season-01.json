@@ -1,0 +1,28 @@
+{
+  "seasonId": "season-01-gwajawal-seven-orbs",
+  "title": "삼성혈의 목함상자와 곶자왈의 일곱 구슬",
+  "protagonists": [
+    {"id":"explorer-bamboo","role":"탐험대원","theme":"길과 방향"},
+    {"id":"explorer-acorn","role":"탐험대원","theme":"수확과 기억"},
+    {"id":"explorer-leaf","role":"탐험대원","theme":"생명과 식물"},
+    {"id":"explorer-water","role":"탐험대원","theme":"물과 회복"},
+    {"id":"explorer-story","role":"탐험대원","theme":"기록과 해석"}
+  ],
+  "guides": [
+    {"id":"guide-deer","theme":"별과 방향"},
+    {"id":"guide-turtle","theme":"기억과 시간"},
+    {"id":"guide-fox","theme":"숨은 길"},
+    {"id":"guide-moss","theme":"생명과 숲"},
+    {"id":"guide-crow","theme":"멀리 보기"}
+  ],
+  "orbs": [
+    {"id":"orb-01","name":"생명의 구슬","color":"green","status":"locked"},
+    {"id":"orb-02","name":"물의 구슬","color":"blue","status":"locked"},
+    {"id":"orb-03","name":"빛의 구슬","color":"yellow","status":"locked"},
+    {"id":"orb-04","name":"마음의 구슬","color":"pink","status":"locked"},
+    {"id":"orb-05","name":"기억의 구슬","color":"purple","status":"locked"},
+    {"id":"orb-06","name":"바람의 구슬","color":"silver","status":"locked"},
+    {"id":"orb-07","name":"수호의 구슬","color":"gold","status":"locked"}
+  ],
+  "ending": {"id":"spirit-awakening","requiredOrbs":7,"status":"locked"}
+}
