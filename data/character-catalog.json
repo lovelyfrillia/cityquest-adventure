@@ -1,0 +1,42 @@
+{
+  "sourceFolder": {
+    "title": "캐릭터",
+    "id": "1nK-NbD755Zqj9vdF7QStaEIPeg6AiZe3"
+  },
+  "roles": {
+    "protagonists": {
+      "label": "시티퀘스트 탐험대 주인공",
+      "source": "사용자가 지정한 초록·자연 모티브 탐험대 캐릭터",
+      "folder": "캐릭터"
+    },
+    "guides": {
+      "label": "목함상자의 길잡이",
+      "source": "사슴·거북·여우·숲친구·까마귀",
+      "folder": "캐릭터"
+    },
+    "spirits": {
+      "label": "곶자왈의 정령",
+      "source": "제주자생식물 기반 정령 캐릭터",
+      "folder": "정령캐릭터",
+      "folderId": "1FdEQaUGL6ItWAaiGNtFuceiAwJWX-1iK"
+    }
+  },
+  "guideSources": [
+    {
+      "id": "16VgQmm-q3fxIUoqnof-1KznhOMxelevU",
+      "file": "file_000000002a0471f8bf11b6fe8a00e8de.png",
+      "role": "목함상자 길잡이 시트"
+    },
+    {
+      "id": "1Omrspgnq5hBB2egievdwk43nICl8r7PK",
+      "file": "file_000000004b2c71fdb2f69fcd4f0277ce.png",
+      "role": "칠성구슬·스토리 레퍼런스"
+    }
+  ],
+  "rules": [
+    "시티퀘스트 탐험대는 게임의 주인공이다.",
+    "목함상자의 다섯 친구는 길잡이이며 주인공과 구분한다.",
+    "곶자왈의 정령은 탐험대가 구해야 하는 존재이며 초반에 전부 공개하지 않는다.",
+    "이미지 한 장에 여러 캐릭터가 있으면 게임 연결 전 개별 캐릭터 자산으로 분리한다."
+  ]
+}
